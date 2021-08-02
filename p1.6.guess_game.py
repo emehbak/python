@@ -1,4 +1,4 @@
-#chose a numebr beween 1,99 and let sofware to find out the number in your mind
+#chose a numebr between (1,99) and let sofware to find out the number in your mind
 a=1
 b=99
 import random
