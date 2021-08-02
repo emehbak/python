@@ -1,3 +1,4 @@
+#in this game, software takes a random number and you guess a number between 1,99 to get the correct answer 
 def game():
     import random
     javab=random.randint(1,99)
