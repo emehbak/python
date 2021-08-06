@@ -1,13 +1,12 @@
 #if reverse of the word is same as the word , print palindrome
-kalame=input()
-tool=len(kalame)
-malake=''
+vorodi=input()
+tool=len(vorodi)
+reverse=''
 for i in range(1,tool+1):
-    malake=malake+kalame[-i]
-    print(malake)
+    reverse=reverse+vorodi[-i]
 
-if kalame==malake:
+
+if vorodi==reverse:
     print('palindrome')
 else:
     print('not palindrome')
-
