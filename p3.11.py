@@ -1,4 +1,4 @@
-#get the input and cout the input 
+#get the input and count the input 
 load=dict()
 n=int(input())
 for i in range(0,n):
